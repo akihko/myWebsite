@@ -1,11 +1,15 @@
-### 你好
+### Hello
 
-這是我的網站
+Welcome To My Website
 
-```markdown
-Syntax highlighted code block
+# **Who** am I
+Name:Ting-Wei Chen
+Blood Type:B
+Birthday:2003/11/22
+Star sign:Scorpion
+Habbits:drawing, reading, playing the guitar
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
